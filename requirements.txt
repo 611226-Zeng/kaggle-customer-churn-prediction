@@ -1,0 +1,6 @@
+Main Python libraries used:
+
+numpy
+pandas
+scikit-learn
+lightgbm
